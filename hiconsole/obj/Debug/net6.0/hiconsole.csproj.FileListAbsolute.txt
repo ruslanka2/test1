@@ -1,0 +1,15 @@
+D:\repo\prog\hiconsole\bin\Debug\net6.0\hiconsole.exe
+D:\repo\prog\hiconsole\bin\Debug\net6.0\hiconsole.deps.json
+D:\repo\prog\hiconsole\bin\Debug\net6.0\hiconsole.runtimeconfig.json
+D:\repo\prog\hiconsole\bin\Debug\net6.0\hiconsole.dll
+D:\repo\prog\hiconsole\bin\Debug\net6.0\hiconsole.pdb
+D:\repo\prog\hiconsole\obj\Debug\net6.0\hiconsole.csproj.AssemblyReference.cache
+D:\repo\prog\hiconsole\obj\Debug\net6.0\hiconsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\prog\hiconsole\obj\Debug\net6.0\hiconsole.AssemblyInfoInputs.cache
+D:\repo\prog\hiconsole\obj\Debug\net6.0\hiconsole.AssemblyInfo.cs
+D:\repo\prog\hiconsole\obj\Debug\net6.0\hiconsole.csproj.CoreCompileInputs.cache
+D:\repo\prog\hiconsole\obj\Debug\net6.0\hiconsole.dll
+D:\repo\prog\hiconsole\obj\Debug\net6.0\refint\hiconsole.dll
+D:\repo\prog\hiconsole\obj\Debug\net6.0\hiconsole.pdb
+D:\repo\prog\hiconsole\obj\Debug\net6.0\hiconsole.genruntimeconfig.cache
+D:\repo\prog\hiconsole\obj\Debug\net6.0\ref\hiconsole.dll
